@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently an IT student (Network Systems), I'm interested in learning about Blockchain, my current goal is to build a messaging DApp.
+How to reach me: 
+- https://www.linkedin.com/in/ahmed-bhlouli
+- https://twitter.com/iAhmad_iA
